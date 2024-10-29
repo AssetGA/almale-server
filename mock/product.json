@@ -1,0 +1,32 @@
+[
+  {
+    "id": 5,
+    "imageUrl": "/img/utensils-set.png",
+    "quantity": 500,
+    "price": 395000
+  },
+  {
+    "id": 1,
+    "imageUrl": "/img/utensils/pan-24.png",
+    "quantity": 0,
+    "price": 0
+  },
+  {
+    "id": 2,
+    "imageUrl": "/img/utensils/frying-pan-32.png",
+    "quantity": 0,
+    "price": 0
+  },
+  {
+    "id": 3,
+    "imageUrl": "/img/utensils/pan-48.png",
+    "quantity": 0,
+    "price": 0
+  },
+  {
+    "id": 4,
+    "imageUrl": "/img/utensils/stewpan-24.png",
+    "quantity": 0,
+    "price": 0
+  }
+]

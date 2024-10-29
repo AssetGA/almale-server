@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Bro",
+    "buyer": "b1",
+    "profession": "шеф-повар",
+    "imageUrl": "/img/shef3.jpg",
+    "message": "Я в восторге от качества посуды Alma Le"
+  },
+  {
+    "id": 2,
+    "name": "Федерико",
+    "buyer": "b2",
+    "profession": "шеф-повар",
+    "imageUrl": "/img/shef1.jpeg",
+    "message": "Я в восторге от качества посуды Alma Le"
+  },
+  {
+    "id": 3,
+    "name": "Ernesto Kabale",
+    "buyer": "b3",
+    "profession": "шеф-повар",
+    "imageUrl": "/img/shef2.png",
+    "message": "Я в восторге от качества посуды Alma Le"
+  },
+  {
+    "id": 4,
+    "name": "Саур",
+    "buyer": "b4",
+    "profession": "шеф-повар",
+    "imageUrl": "/img/frying-pan.png",
+    "message": "Я в восторге от качества посуды Alma Le"
+  }
+]
